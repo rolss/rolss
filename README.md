@@ -4,7 +4,7 @@ MSc. Computer Science and Engineering from Politecnico di Milano
 
 * ⚡ Problem-solver and self-learner
 * 🌱 I love building new projects and exploring new technologies
-* 🔭 Mainly interested in backend systems, building APIs and handling data pipelines
+* 🔭 Mainly interested in **backend systems, building APIs and handling data pipelines**
 
 📫 Reach me at raulvergara025@gmail.com
 
