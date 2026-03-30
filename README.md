@@ -10,7 +10,7 @@ MSc. Computer Science and Engineering from Politecnico di Milano
 
 <br>
 
-<div align="center">
+
   
 ### Programming & Frameworks
   
@@ -30,9 +30,7 @@ MSc. Computer Science and Engineering from Politecnico di Milano
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
-</div>
 
-<div align="center">
   
 ### Databases
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
@@ -41,9 +39,7 @@ MSc. Computer Science and Engineering from Politecnico di Milano
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
 
-</div>
 
-<div align="center">
 
 ### Tools & Environment
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
@@ -55,16 +51,11 @@ MSc. Computer Science and Engineering from Politecnico di Milano
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-</div>
-
 <br>
-
-<div align="center">
   
 ### Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rolss&theme=tokyonight&hide_border=false&border=ffffff" height="100%" />
 
-</div>
 
 
 <!--
