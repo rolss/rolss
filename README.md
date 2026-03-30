@@ -1,4 +1,4 @@
-## Hi 👋, I'm Raul
+# Hi 👋, I'm Raul
 
 MSc. Computer Science and Engineering from Politecnico di Milano
 
