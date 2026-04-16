@@ -57,6 +57,13 @@ MSc. Computer Science and Engineering from Politecnico di Milano
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rolss&theme=tokyonight&hide_border=false&border=ffffff" height="100%" />
 
 
+### Check out some of my projects!
+- **[Fairness in Data](https://github.com/rolss/Fairness-in-data)** - My master's thesis; an end-to-end pipeline made in Python to mitigate unfairness in real-world datasets. Goes from cleaning the data, to learning models and showing relevant plots.
+- **[Football Analytics Dashboard](https://github.com/rolss/FootballAnalytics-Dashboard)** - A web app showing dynamic dashboards made with Streamlit in Python, connected with datasets in SQL.
+- **[Mapuka](https://github.com/your-username/mapuka)** – A mobile app using real-time location data to uncover a hidden map, user functionalities and database security, made with React Native and Supabase.
+- **[PayView](https://github.com/rolss/PayView)** - A full-stack web app simulating a payment portal using the MERN Stack and a microservice-oriented architecture.
+- **[2-player Memory Game](https://github.com/rolss/Memory-Game)** - An online, 2-player memory game made in Java using strings and sockets for game information exchange.
+- **[Tron Game](https://github.com/rolss/Tron-Game)** - A simple, fun, local 2-player co-op game based on the Tron movie. 
 
 <!--
 
