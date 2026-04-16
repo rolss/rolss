@@ -52,10 +52,6 @@ MSc. Computer Science and Engineering from Politecnico di Milano
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 <br>
-  
-### Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rolss&theme=tokyonight&hide_border=false&border=ffffff" height="100%" />
-
 
 ### Check out some of my projects!
 - **[Fairness in Data](https://github.com/rolss/Fairness-in-data)** - My master's thesis; an end-to-end pipeline made in Python to mitigate unfairness in real-world datasets. Goes from cleaning the data, to learning models and showing relevant plots.
@@ -64,6 +60,13 @@ MSc. Computer Science and Engineering from Politecnico di Milano
 - **[PayView](https://github.com/rolss/PayView)** - A full-stack web app simulating a payment portal using the MERN Stack and a microservice-oriented architecture.
 - **[2-player Memory Game](https://github.com/rolss/Memory-Game)** - An online, 2-player memory game made in Java using strings and sockets for game information exchange.
 - **[Tron Game](https://github.com/rolss/Tron-Game)** - A simple, fun, local 2-player co-op game based on the Tron movie. 
+
+<br>
+
+### Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rolss&theme=tokyonight&hide_border=false&border=ffffff" height="100%" />
+
+
 
 <!--
 
